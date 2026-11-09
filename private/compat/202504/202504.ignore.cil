@@ -43,4 +43,6 @@
     mmd_setup
     contextual_mode_service
     system_server_wrapfd
+    gamebar_app
+    touchservice_app
   ))
